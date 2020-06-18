@@ -41,3 +41,4 @@ ssh someinternalhost
 
 bastion_IP = 84.201.174.139 
 someinternalhost_IP = 10.130.0.25
+
