@@ -42,3 +42,13 @@ ssh someinternalhost
 bastion_IP = 84.201.174.139 
 someinternalhost_IP = 10.130.0.25
 
+Домашняя работа 6:
+testapp_IP = 178.154.226.13
+testapp_port = 9292
+
+Самостоятельная работа
+install_ruby.sh install_mongodb.sh deploy.sh
+Дополнительное задание
+create_ycvm.sh metadata.yaml http://:9292/
+
+
